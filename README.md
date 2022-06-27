@@ -79,6 +79,8 @@ I've added some keywords for each plugin so you can easily search for ... search
 
 * [**Sitala**](https://decomposer.de/sitala/), "is a free drum plugin and standalone app."; **Requirements**: `none`; **Keywords**: `sample-player` `instrument`;
 
+* [**Decent Sampler**](https://www.decentsamples.com/product/decent-sampler-plugin/), "A FREE sampling plugin that allows you to play samples in the Decent Sampler format."; **Requirements**: `email`; **Keywords**: `sample-player` `instrument`;
+
 * [**Rave Generator 2**](https://blog.wavosaur.com/rave-generator-2-vst-audiounit-the-stab-machine-is-back-in-the-house/), "a rompler with a lot of funky rave stabs/samples coming straight from the 90’s, for the late-to-the-party."; **Requirements**: `none`; **Keywords**: `synth` `instrument` `sample-player`;
 
 * [**Dexed**](https://asb2m10.github.io/dexed/), "is a multi platform, multi format plugin synth that is closely modeled on the Yamaha DX7. Dexed is also a midi cartridge librarian/manager for the DX7."; **Requirements**: `none`; **Keywords**: `synth` `instrument`
@@ -112,3 +114,9 @@ Here are some more lists, I have included some content from those lists here.
 * [**awesome-musicdsp**](https://github.com/olilarkin/awesome-musicdsp), "A curated list of my favourite music DSP and audio programming resources"
 
 * [**awesome-free-audio**](https://github.com/apahne/awesome-free-audio), "Awesome list of free VST plugins, instruments and audio software"
+
+* [**free-audio-software-list**](https://github.com/AprilDolly/Free-Audio-Software-List), "A list of free audio production and composition software with descriptions and download links."
+
+* [**free-audio-plugin-list**](https://github.com/twinysam/FreeAudioPluginList), "A comprehensive list of audio processing plugins available for free download. Initially made by and for /r/mixingmastering, hoping it to be made by and for everyone."
+
+* [**free-music-plugins**](https://github.com/spnw/free-music-plugins), "This is a list of free audio and MIDI plugins for music production"
