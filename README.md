@@ -1,8 +1,8 @@
 # Introduction
 
-A list of various free audio plug-ins (AU / VST) in 64-bit format. I have not tested all of them, but the ones I tested worked in Logic Pro X on macOS with Apple M1 chip. I left out everything that requires additional software, as I prefer no additional software.
+A list of various free audio plug-ins (AU / VST) in 64-bit format. I have not tested all of them, but the ones I tested worked in Logic Pro X on macOS with Apple M1 chip. I have left out everything that requires additional software, as I prefer no additional software. Some additional lists can be found at the end of this list.
 
-For some plugins an account has to be created, maybe you are lucky and can skip this by finding some credentials [here](http://bugmenot.com). For most plugins that require an email address, you can also try some temporary email addresses.
+For some plugins an account has to be created, maybe you are lucky and can skip this by finding some login details [here](http://bugmenot.com). For most plugins that require an email address, you can also try some temporary email addresses.
 
 I've added some keywords for each plugin so you can easily search by pressing `CONTROL + F` or `COMMAND + F` on Windows or macOS respectively.
 
