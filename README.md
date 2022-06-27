@@ -4,7 +4,23 @@ A list of various free audio plug-ins (AU / VST) in 64-bit format. I have not te
 
 For some plugins an account has to be created, maybe you are lucky and can skip this by finding some credentials [here](http://bugmenot.com). For most plugins that require an email address, you can also try some temporary email addresses.
 
-I've added some keywords for each plugin so you can easily search for ... search by pressing `CONTROL + F` or `COMMAND + F` on Windows or macOS respectively.
+I've added some keywords for each plugin so you can easily search by pressing `CONTROL + F` or `COMMAND + F` on Windows or macOS respectively.
+
+Keywords:
+* `effect`
+* `samples`
+* `synth`
+* `instrument`
+* `distortion`
+* `equalizer`
+* `mixing`
+* `sample-player`
+* `other`
+
+I also added some keywords for the requirements:
+* `email`
+* `account`
+* `none`
 
 **Contributions are welcome, you can submit a plugin by [opening an issue.](https://github.com/divin/free-audio-plugins/issues/new/choose)**
 
@@ -105,7 +121,7 @@ I've added some keywords for each plugin so you can easily search for ... search
 
 * [**TDR Nova**](https://www.tokyodawn.net/tdr-nova/#), "is a parallel dynamic equalizer. Appearing in the familiar layout of a parametric equalizer, each band also includes a full featured dynamics section allowing the processor to cover an impressively wide range of applications. Be it a master lacking density, the drum bus asking for more crispiness, or a sibilance problem in your perfect take: NOVA has an elegant answer."; **Requirements**: `none`; **Keywords**: `effect` `equalizer` `mixing`
 
-* [**77,257 Samples from SampleRadar**](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download), "The samples are supplied as WAV files so can be imported directly into your DAW of choice. Because they're royalty-free, you're welcome to use them in your music in any way you like - all we ask is that you don't re-distribute them."; **Requirements**: `none`; **Keyword**: `sample`
+* [**77,257 Samples from SampleRadar**](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download), "The samples are supplied as WAV files so can be imported directly into your DAW of choice. Because they're royalty-free, you're welcome to use them in your music in any way you like - all we ask is that you don't re-distribute them."; **Requirements**: `none`; **Keyword**: `samples`
 
 # Further Resources
 
