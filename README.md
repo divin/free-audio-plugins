@@ -11,9 +11,6 @@ Keywords:
 * `samples`
 * `synth`
 * `instrument`
-* `distortion`
-* `equalizer`
-* `mixing`
 * `sample-player`
 * `other`
 
