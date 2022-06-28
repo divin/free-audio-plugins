@@ -290,12 +290,8 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 
 "The samples are supplied as WAV files so can be imported directly into your DAW of choice. Because they're royalty-free, you're welcome to use them in your music in any way you like - all we ask is that you don't re-distribute them."
 
-<<<<<<< HEAD
 **Requirements**: `none`  
 **Keyword**: `samples`
-=======
-* [**77,257 Samples from SampleRadar**](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download), "The samples are supplied as WAV files so can be imported directly into your DAW of choice. Because they're royalty-free, you're welcome to use them in your music in any way you like - all we ask is that you don't re-distribute them."; **Requirements**: `none`; **Keyword**: `samples`
->>>>>>> a82ab48bec2315c573f5154c81141a676a86b948
 
 # Further Resources
 
