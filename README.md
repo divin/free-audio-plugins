@@ -155,13 +155,6 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 **Requirements**: `none`  
 **Keywords**: `synth`
 
-# ✔ [HATEFISh RhyGenerator One](https://www.hornetplugins.com/plugins/hatefish-rhygenerator-one)
-
-"RhyGenerator One is the simplified version of RhyGenerator, an Euclidean step sequencer made by HoRNet Plugins together with the electronic music artist HATEFISh."
-
-**Requirements**: `account`  
-**Keywords**: `synth`
-
 # ✔ [iZotope](https://www.izotope.com)
 
 * [**Vocal Double**](https://www.izotope.com/en/products/vocal-doubler.html), "iZotope Vocal Doubler is a free plug-in designed to enhance your vocal with a natural doubling effect, adding richness and depth. Our acclaimed doubling technology has been reimagined with a brand new interactive UI dedicated to helping you achieve a great double faster than ever."
