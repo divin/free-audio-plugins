@@ -179,7 +179,7 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 **Requirements**: `email`  
 **Keywords**: `effect`
 
-# ✔ [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle)
+# [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle)
 
 "MFreeFXBundle contains a set of audio effects, which are completely free. Our commercial plugins offer many more features, but these are still extraordinary when compared to most plugins on the market."
 
@@ -221,7 +221,7 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 **Requirements**: `none`  
 **Keywords**: `synth`
 
-# [TAL-Software](https://tal-software.com/)
+# ✔ [TAL-Software](https://tal-software.com/)
 
 * [**TAL-Filter-2**](https://tal-software.com/products/tal-filter), "is a host synced filter module with different filter types, panorama and volume modulation possibilities. This can be used for tremolo or trance gate effects. Panorama modulation maybe is useful to pan your percussion, hats or sound effects in the stereo room for more interesting rythms and sounds."
 
@@ -236,14 +236,14 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 **Requirements**: `none`  
 **Keywords**: `synth` `effect`
 
-# [TDR Nova](https://www.tokyodawn.net/tdr-nova/#)
+# ✔ [TDR Nova](https://www.tokyodawn.net/tdr-nova/#)
 
 "Nova is a parallel dynamic equalizer. Appearing in the familiar layout of a parametric equalizer, each band also includes a full featured dynamics section allowing the processor to cover an impressively wide range of applications. Be it a master lacking density, the drum bus asking for more crispiness, or a sibilance problem in your perfect take: NOVA has an elegant answer."
 
 **Requirements**: `none`  
 **Keywords**: `effect`
 
-# [U-He](https://u-he.com/)
+# ✔ [U-He](https://u-he.com/)
 
 * [**Zebralette**](https://u-he.com/products/zebralette/), "a free synthesizer and an introduction to Zebra2's fantastic oscillators."
 
@@ -254,7 +254,7 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 **Requirements**: `none`  
 **Keywords**: `synth`
 
-# [Valhalla](https://valhalladsp.com)
+# ✔ [Valhalla](https://valhalladsp.com)
 
 * [**Valhalla Freq Echo**](https://valhalladsp.com/demos-downloads/), "Freq Echo is perfect for dub, Dr. Who, and all of your psychedelic needs."
 
@@ -265,7 +265,7 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 **Requirements**: `none`  
 **Keywords**: `effect`
 
-# [Wavesfactory](https://www.wavesfactory.com/)
+# ✔ [Wavesfactory](https://www.wavesfactory.com/)
 
 * [**SK10**](https://www.wavesfactory.com/free-audio-plugins/sk10/), "is a free audio plugin that simulates a sub-kick microphone. A sub-kick mic is essentially a speaker converted into a microphone. Thanks to its diameter it captures a lot of low end and it's a perfect fit along your regular kick mic for boosting the low frequencies."
 
@@ -283,7 +283,7 @@ You can find [here 10,000+ DX7 Presets](https://www.mediafire.com/file/de79p3g23
 **Requirements**: `account`  
 **Keywords**: `effect`
 
-# [77,257 Samples from SampleRadar](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download)
+# ✔ [77,257 Samples from SampleRadar](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download)
 
 "The samples are supplied as WAV files so can be imported directly into your DAW of choice. Because they're royalty-free, you're welcome to use them in your music in any way you like - all we ask is that you don't re-distribute them."
 
